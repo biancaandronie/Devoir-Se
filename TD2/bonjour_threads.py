@@ -117,5 +117,5 @@ def main(argv=None):
     return 0
 
 if __name__ == '__main__':
-    freeze_support()
-sys.exit(main())
+        freeze_support()
+        sys.exit(main())
