@@ -24,5 +24,5 @@ while True:
         data, addr = serversocket.recvfrom(1024)   
         print time.ctime(time.time()) + str(addr) + ": " + str(data)
     except:
-		    pass
+	pass
 serversocket.close()
