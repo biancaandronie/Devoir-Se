@@ -1,0 +1,1 @@
+J'ai modifié le code de TD4 - L'applicatoin web en ajoutant l'algorithme de cryptage et decryptage de type Caesar. Il faut écrire dans la console: "simple_web_server.py", apres dans le navigateur: "http://127.0.0.1:8000/" .  J'ai changé dans la méthode do_POST pour afficher les textes chiffrés et déchiffrés en index.html.
